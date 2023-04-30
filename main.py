@@ -154,9 +154,7 @@ if __name__ == "__main__":
         default="figs",
         help="path to the dicrectory saving output figure",
     )
-    parser.add_argument(
-        "--data_root", type=str, default="/home/cw3344@drexel.edu/data", help="root path to cifar10-c directory"
-    )
+    parser.add_argument("--data_root", type=str, default="~/data", help="root path to cifar10-c directory")
     parser.add_argument(
         "--batch_size",
         type=int,
