@@ -1,0 +1,27 @@
+['RN50', 'RN101', 'RN50x4', 'RN50x16', 'RN50x64', 'ViT-B/32', 'ViT-B/16', 'ViT-L/14', 'ViT-L/14@336px']
+Model parameters: 151,277,313
+Input resolution: 224
+Context length: 77
+Vocab size: 49408
+Files already downloaded and verified
+Files already downloaded and verified
+{'avg': 74.09368972040784,
+ 'brightness': 86.44917063810388,
+ 'contrast': 80.25670390226404,
+ 'defocus_blur': 80.8999492100307,
+ 'elastic_transform': 74.61384987344547,
+ 'fog': 81.43279048374721,
+ 'frost': 79.30774237185108,
+ 'gaussian_blur': 78.62546477025869,
+ 'gaussian_noise': 50.969116989447144,
+ 'impulse_noise': 60.67976574021943,
+ 'jpeg_compression': 64.63042543372329,
+ 'motion_blur': 72.37576558638592,
+ 'natural': 88.91003646850587,
+ 'pixelate': 68.65208053588867,
+ 'saturate': 82.9639668367347,
+ 'shot_noise': 59.27399709273358,
+ 'snow': 77.48792188994739,
+ 'spatter': 82.50400107247489,
+ 'speckle_noise': 61.93282668444575,
+ 'zoom_blur': 75.81452910754146}
